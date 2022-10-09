@@ -29,10 +29,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94771234567'] // owner number
+global.ownername = "😎Lakshan❯❯" // owner name
 global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.socialm = "GitHub: Lakiya720" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -47,8 +47,8 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94774372496']
+global.ownertag = '+94774372496' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94774372496'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -271,10 +271,10 @@ global.rep = { // All Replies = 145
     K107: '😅✌️😝',
     K108: '😂😂විහිලු නං කමක් නෑ😌',
     K109: 'මං තරහයි😒 ඇයි මොකෝ?👎',
-    K110: 'ඇයි පකෝ🥲',
-    K111: 'ලබ්බ😒',
-    K112: 'මොන හුම්තක්ද යකෝ?🙄',
-    K113: '😒පලෑන්න පොන්නය💔',
+    K110: 'ඇයි ',
+    K111: '😒',
+    K112: 'මොන🙄',
+    K113: '😒💔',
     K114: '🥲💔🙏',
     K115: '🥲🥲💔☝️',
     K116: '😏😑එන්නෙපා ගෑනි ගාගෙන🤨💔💔💔',
@@ -283,12 +283,12 @@ global.rep = { // All Replies = 145
     K119: '😒👎',
     K120: 'එහෙම කියන්නෙපා පව්නෙ😒',
     K121: '🫢🙄',
-    K122: 'අනේ තෝ හුකාගනිං🙂💔',
-    K123: '😐උක්කමු😒😂😂',
-    K124: 'ඇයි🙄 පුකද බලන්නෙ?',
-    K125: 'උබේ දෙක ද?😂',
-    K126: 'උබේ ද?😂',
-    K127: '🥲මං ඇවිත් කටට ගන්නද?😒😝',
+    K122: '🙂💔',
+    K123: '😐😒😂😂',
+    K124: 'bot',
+    K125: 'ද?😂',
+    K126: '?😂',
+    K127: '🥲😒😝',
     K128: '😂😂හමෝ',
     K129: '😏ඕන්නැත්තං නිකං ඉන්න',
     K130: '🤭නිකං ඉන්න එපා ඇඳුමක් ඇඳගන්න😂❤️',
